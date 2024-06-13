@@ -1,0 +1,1 @@
+# django-eks-terraform-deployement
